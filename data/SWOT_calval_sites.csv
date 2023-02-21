@@ -1,0 +1,95 @@
+name,lat,lon,Team,instruments,period (dd/mm start - dd/mm end),type
+"Baie des Veys, FR",49.382105,-1.124725,"Laurent Froideval, J. Deloffre and E. Salameh",,15/03-30/06,coastal
+Dixon Entrance,54.4131423,-131.9587656,,,,coastal
+"Elbe estuary, DE",53.88045057,9.057303387,"L. Fenoglio (Uni-Bonn), J. Staneva (HzG)","Gauges, GPS",,coastal
+"Guayas Estuary, Ecuador",-3.277486266,-79.07194761,"Simard, Calle-Delgado( ESPOL), Pozo-Cajas (U. Gayaquil)",Gauges,installing 01/31-02/03/2023. recording until Fall 2023.,coastal
+Hecate Strait,53.1798603,-130.8286178,Guoqi Han and Charles Hannah (Fisheries and Oceans Canada),"Moorings (ADCP, CTD), tide gauge, CODARs, drifters",July 2022 to July 2023,coastal
+"Komo Estuary, Gabon",-0.1486160284,9.732559518,"Simard and Rabenkogo (Ministère des Eaux, des Forêts, de la Mer, de l’Environnement, chargé du Plan Climat et du Plan d’Affectation des Terres. Gabon)","Gauges, ADCP",INstalling 03/20/2023 to 03/30/2023.  recording until Fall 2023,coastal
+"Newfoundland Shelf, Canada",49.67,-53.33,,"3 moorings (ADCP, CTD), glider, ship-based measurements",April 2023 (dates TBD); mooring deployed fall 2022,coastal
+"Newfoundland Shelf, Canada",50.83,-52.67,,"3 moorings (ADCP, CTD), glider, ship-based measurements",April 2023 (dates TBD); mooring deployed fall 2022,coastal
+"Ogoue River, Gabon",-0.6068263491,9.781294779,"Simard and Rabenkogo (Ministère des Eaux, des Forêts, de la Mer, de l’Environnement, chargé du Plan Climat et du Plan d’Affectation des Terres. Gabon)","Gauges, ADCP",INstalling 03/20/2023 to 03/30/2023.  recording until Fall 2023,coastal
+"Raz Blanchard,FR",49.721305,-1.991615,,,,coastal
+"Severn Estuary, UK",51.6,-2.7,"Paul Bell (psb@noc.ac.uk), Christine Gommenginger, Paul Bates, Simon Neill","Gauges, ADCP moorings x 2, Lidar flights","Gauges: February onwards. ADCPs - TBC, Lidar - TBC",coastal
+"St-Laurent Estuary, Québec",47.65554096,-70.02021509,"Simard and Matte (Environment and Climate Change Canada (ECCC), Gov. of Canada)","AirSWOT, Airborne Lidar, Gauges, GNSS, ADCP, buoys, HF radars",May 2023.,coastal
+Amazon & Negro Rivers,-3.269607416,-60.28134749,,,,hydro
+Ceará River,-3.702918,-38.616795,added location indicated by Jean-Francois Cretaux,,,
+Connecticut River,42.3052762,-72.55167432,,,,hydro
+Connecticut Tidal,41.39278241,-72.55443861,,,,hydro
+Everglades,25.79463781,-80.86085332,,,,hydro
+"Gange River, Upper",28.002184,78.64491,added location indicated by Jean-Francois Cretaux,,,
+Garrone River,44.6441877,-0.1505375034,,,,hydro
+Issyk Kul,42.42910216,77.71544458,,,,hydro
+Lake Fagnano,-54.575008,-68.137368,added location indicated by Jean-Francois Cretaux,,,
+Madagascar Rivers,-19.94425296,44.90092552,,,,hydro
+Maroni River,4.463421515,-54.44478489,,,,hydro
+Meta River,5.389774,-70.642452,added location indicated by Jean-Francois Cretaux,,,
+Mississippi Delta,29.44307775,-90.65324239,,,,hydro
+Mississippi River,32.36061379,-90.9398355,,,,hydro
+"Negro River, Upper",-2.974783,-60.506567,added location indicated by Jean-Francois Cretaux,,,
+North Saskatchewan River,52.83725714,-106.5928291,,,,hydro
+Pacific Northwest LAkes,47.48862302,-121.9565751,,,,hydro
+Paraná River,-25.661789,-54.624614,added location indicated by Jean-Francois Cretaux,,,
+Peace-Athabasca Delta,58.62219187,-111.4525226,,,,hydro
+Prairie Potholes Lakes,46.34332944,-95.83135998,,,,hydro
+Pyrenees Lakes,42.71869615,0.7500732984,,,,hydro
+Rhine River in Germany,50,7,"Luciana Fenoglio (University of Bonn), BfG",,,
+Rhiine River + Lakes,48.66696563,7.805269313,,,,hydro
+Sagavanirktok River,69.45490883,-148.5709215,,,,hydro
+Sahel Lakes,14.03097295,3.750096675,,,,hydro
+Sierra Nevada Lakes,37.60543629,-119.0079849,,,,hydro
+Sobradinho reservoir along the Sao Fransisco river,-9.657045,-41.494474,added location indicated by Jean-Francois Cretaux,,,
+Tanana River,64.64359775,-148.4190056,,,,hydro
+Waimakariri River,-43.44358515,172.1842667,,,,hydro
+Willamette River,44.59578174,-123.177275,,,,hydro
+Yukon Flats Lakes,66.30256221,-145.8558711,,,,hydro
+ACC-SMST,-56,152,"B. Legresy, H. Philips, M. Nikurashin, S. Rintoul, N. Bindoff (IMAS, Australia); K. Polzin (WHOI, US); R. Watts (Un. Rhode Island, US); R. Morrow (LEGOS, France)","1 tall mooring, 3 Argo+ floats, underway, Deep and shallow CTDs, underway profiling with Triaxus, underway and CTD flowcytometry,...",36 days Nov-Dec 2023 mooring(s) until May 2024,ocean
+AUSWOT,-35,152,"Moninya Roughan, Jason Evans, Shane Keating, Amandine Schaeffer, Colette Kerry (UNSW Sydney); Gary Brassington, Andrew Dowdy, Eric Shulz (Australian Bureau of Meteorology); Pete Strutton, Christina Schallenberg (University of Tasmania); Paulina Cetina Heredia (Hawaii Pacific University); Dr Alice Della Penna (University of Auckland).",,,ocean
+Bass Strait,-40,146,"Christopher Watson (University of Tasmania, Australia) Benoit Legresy (CSIRO and IMAS, Australia)","9 GNSS buoys, 3 CWPIES moorings + background 3 PTS moorings","01/03 to 01/07 for the nominal SWOT-FSP experiment, switching to ongoing science phase monitorring in August",ocean
+BioSWOT Med,38.3,3.2,"Andrea Doglioli (MIO, France), Gerlad Grégori (CNRS, MIO, France); Francesco d'Ovidio (LOCEAN-IPSL); Franck Dumas (SHOM, France); Ananda Pascual (CSIC, IMEDEA, Spain)","Deployment and recovery of gliders; deployment of floats and drifters; 
+MVP (Moving Vessel Profiler) or Seasoar (if the MVP is not available) 
+transects. Underway measurements: hull-mounted
+
+ADCP; TSG and automated measurements on the sea surface water intake 
+such as automated flow cytometry. Nutrients and biodiversity will also 
+be addressed after manual sampling. At stations: water sampling at 
+high vertical resolution by direct pumping seawater onboard with a 
+dedicated and targeted device for nutrient and biology manual 
+sampling; CTD L-ADCP clean 12-L NiskinX (teflon coated external 
+spring) carousel; FF-ADCP (Free Fall ADCP); VVP (Vertical Velocity 
+Profiler); VMP (Vertical Microstructure Profiler); zooplankton and 
+micronekton sampling (net casts).
+",20/04 - 15/05,ocean
+QUICCHE - Cape Basin ,-37,16,"Sebastiaan Swart (Un. Gothenburg, Sweden); Lisa Beal (Miami, USA)","1 month Roger Revelle cruise, Underwater gliders, Autonomous surface vehciles, EM Apex floats, drifters, VMP, high res hydrography, nutrients, ADCP, TSG",03/2023-03/2024,ocean
+C-SWOT-2023,42.6,5.3,Franck Dumas (franck.dumas@shom.fr) (Shom); Pierre Garreau ( pierre.garreau@ifremer.fr) (IFREMER).,,,ocean
+Cape Hatteras,37,-74.6,"Harvey Seim (University of North Carolina - Chapel Hill); Magdalena Andres, Robert Todd (WHOI); Mike Muglia (CSI/ECU); Erika Johnson/Ivan Savelyev (NRL)","CPIES, underwater gliders, moored ADCP, high-frequency radar, aircraft overflights (surface waves, surface currents)","CPIES (1/23-10/23), gliders (1/23-6/23); ADCP (3/23-10/23); HFRs - ongoing; aircraft (3/23)",ocean
+CONWEST-DYCO 1 Danish Straits,54.7,10.2,"Luciana Fenoglio-Marc (fenoglio@geod.uni-bonn.de), Volker Mohrholz (volker.mohrholz@io-warnemuende.de)","buoys, moorings (T,S,V,P,SL,Ox), tide gauges, GPS@TG",,ocean
+CONWEST-DYCO 2 Central Baltic,57.2,19,"Luciana Fenoglio-Marc (fenoglio@geod.uni-bonn.de), Volker Mohrholz (volker.mohrholz@io-warnemuende.de)","Central Baltic, CTD, moorings, GPS@TG, VMADCP, biology",pre-campain: 03. – 23. May 2022; SWOT campain: 14-28 April 2023,ocean
+Great Barrier Reef,-18.8,147.6,"Christopher Watson (University of Tasmania, Australia) Benoit Legresy (CSIRO and IMAS, Australia)",,,ocean
+Labrador Sea,53.2,-51,Frédéric Cyr - Northwest Atlantic Fisheries Centre (NAFC); Fisheries and Oceans Canada (DFO); Guoqi Han - Northwest Atlantic Fisheries Centre (NAFC); Fisheries and Oceans Canada (DFO); Johannes Karstensen - Helmholtz Centre for Ocean Research Kiel (GEOMAR),,,ocean
+MAEVA-SWOT,,,,,,
+Marmara Sea,41,28,"Anil Akpinar, Hasan Orek, Bettina Fach (METU IMS, Turkey)","Glider deployment,  CTD,  Scanfish,  Ship-based underway adcp",05/2023-06/2023,ocean
+Mission Calval - California,35.7,-125,"Jinbo Wang, Lee-Lueng Fu, Bruce Haines (JPL/Caltech); Uwe Send, Drew Lucas, Matthias Lankhorst, Amy Waterhouse (SIO/UCSD); Scott Stalin (PMEL/NOAA); Oscar Schofield (Rutgers Univ.); Tom Farrar, Magdalena Andres (WHOI)","7 CTD moorings with Prawler and GPS, 4 deep CTD moorings with Wirewalker and fixed CTDs, one of the four deep moorings is equiped with ADCP, two gliders","March-September, 2023",ocean
+New Caledonia,-25,173,"S. Cravatte, L. Gourdeau, F. Marin, A. Ganachaud (LEGOS, France)","Moorings fully equipped with currentmeters and temperature and salinity sensors
+GPS buoys and GPS blanket
+VMP (Vertical Microstructure Profiler)
+CTD/bottles
+ CTD Profiler (Rapidcast/EcoCTD)","Cruise 1: 13 March-22 March 
+Cruise 2: 24 March- 10 April
+Cruise 3: 12 April- 1 May",ocean
+North West Australia Shelf,-14.3,123,Nicole L. Jones (University of Western Australia) Matt Rayson (University of Western Australia) Shane Keating (University of New South Wales) Jessica Benthuysen (Australian Institute of Marine Science) Jen-Ping Peng (University of Western Australia) Callum Shakespeare (Australian National University) Aurélien Ponte (Ifremer) Greg Ivey (University of Western Australia) Madi Rosevear (University of Western Australia),"3 moorings equipped with ADCPs, CTD and TD, 
+ADV, Bottom Pressure Sensor
+A lander equipped with ADV and TD
+10 Gliders (7 Slocum gliders, 3 deep gilers)
+Vertical Microsturcutre Profiler (VMP)
+pH and DO sensors on the ship-based CTD rosette
+Ship-baed underway ADCP
+Weather station
+10 Drifters 
+","Cruise 1: 5-11 April
+Cruise 2: 26 April - 5 May
+Cruise 3: 30 May - 6 June ",ocean
+North West Pacific,21,135,"Zhao Jing, Zhiwei Zhang, Zhaohui Chen (Pilot National Laboratory for Marine Science and Technology, Qingdao, China)","four moorings equipped with ADCP, CTD and TD durinng July 2022-July 2023",,ocean
+Patagonian Continential Shelf,-42,-63,"M. Saraceno (saraceno@cima.fcen.uba.ar), C. Guinet, LA Ruiz Etcheverry, A. Lucas",,,ocean
+S-MODE,37,-125,"Tom Farrar (WHOI, US), Ernesto Rodriguez (JPL), Eric D'Asaro (UW-APL), Andrey Shcherbina (UW-APL) and 20 other co-investigators","3 Research aircraft with instruments including Doppler scatterometer, hyperspectral/infrared/visible imagery, lidar water heights; Research vessel with UCTD (T, S, chl, DO); 8 Wave Gliders (ADCP, wind, waves, surface fluxes); 100 surface drifters; >6 gliders; Lagrangian floats",01/04-01/05,ocean
+SOTS,-47,142,"Christopher Watson (University of Tasmania, Australia) Benoit Legresy (CSIRO and IMAS, Australia)",,,ocean
+western Mediterranean Sea (Spain),39,3,"Ananda Pascual (IMEDEA, Spain) and Baptiste Mourre (SOCIB, Spain)",,,ocean
